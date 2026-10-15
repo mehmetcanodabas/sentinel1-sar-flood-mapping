@@ -1,0 +1,16 @@
+[workspace]
+authors = ["mehmetcanodabas <odabasmc@gmail.com>"]
+channels = ["conda-forge"]
+name = "sentinel1-sar-flood-mapping"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+openeo = ">=0.53.0,<0.54"
+ipykernel = ">=7.4.0,<8"
+rasterio = ">=1.4.4,<2"
+matplotlib = ">=3.11.2,<4"
+scipy = ">=1.17.1,<2"

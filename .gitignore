@@ -1,0 +1,37 @@
+# Ignore everything by default
+*
+
+# Allow project files
+!*.py
+!*.ipynb
+!*.md
+!pixi.toml
+!pixi.lock
+!.gitignore
+!.gitattributes
+
+# Allow result images
+!docs/
+!docs/results/
+!docs/results/*.png
+!docs/results/*.jpg
+!docs/results/*.jpeg
+
+# Ignore generated data
+outputs/
+*.zarr/
+*.tif
+*.tiff
+
+# Ignore Python and environment files
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.pixi/
+.venv/
+
+# Ignore editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
