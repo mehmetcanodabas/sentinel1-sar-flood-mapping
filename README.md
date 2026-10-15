@@ -1,6 +1,6 @@
 ## sentinel1-sar-flood-mapping
 
-Sentinel-1 SAR Flood Change Detection Using Cloud-Based Geospatial Data
+Implementation of a Cloud-Based Sentinel-1 SAR Workflow for Flood Change Detection in Germany's Ahr Valley
 
 This project demonstrates cloud-based Sentinel-1 SAR flood-related change detection using STAC, openEO, and Python. Sentinel-1 GRD imagery from the July 2021 Ahr Valley flood in Germany is accessed through Copernicus Data Space, validated using acquisition metadata, and processed using orbit-consistent VV backscatter measurements.
 
