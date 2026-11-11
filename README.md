@@ -22,6 +22,6 @@ The workflow includes pre- and post-flood backscatter comparison, median filteri
 
 [Flood-related SAR valley overlay](docs/results/flood_related_sar_valley_overlay.png): SAR changes along the Ahr Valley visualized over satellite imagery in QGIS.
 
-**Keywords:** Sentinel-1 SAR, STAC, Copernicus Data Space, openEO, ESA WorldCover, Rasterio, NumPy, SciPy, GeoTIFF, QGIS, Python.
+**Keywords:** Python, Copernicus Data Space, ESA WorldCover, GeoTIFF, NumPy, openEO, QGIS, Rasterio, SciPy, Sentinel-1 SAR, STAC.
 
 **Acknowledgment:** Sentinel-1 and ESA WorldCover data accessed through the Copernicus Data Space Ecosystem. Satellite basemap imagery provided by Esri World Imagery.
